@@ -1,0 +1,38 @@
+
+{  
+  "token": "",
+  "mongooseConnectionString": "",
+  "prefix": "t!",
+  "activity": "/help | watching tickets ✌️ | On Cluster: {shards}",
+  "type": "WATCHING",
+  "status": "idle",
+  
+  "COMMENT": "Only enable hostingweb if you are using replit!",
+  "hostingweb": false,
+  
+  "developers": [],
+  
+  
+  
+  "embed": {
+  "footer": "Coded by Azury Industries",
+  "sponsor": "By Nobody"
+  },
+
+
+
+  "color": {
+    "main"   : "#2f3136",
+    "error"  : "#ff5f8e",
+    "success": "#99ff9c",
+
+    "red"   : "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green" : "#74ff89",
+    "purple": "#7d5eff",
+    "pink"  : "#ff88d2",
+    "grey"  : "#4b4b4b",
+    "white" : "#ffffff"
+  }
+}
